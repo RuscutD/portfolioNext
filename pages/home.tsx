@@ -93,7 +93,7 @@ export default function home() {
               Contact
             </h1>
             <div className="sm:hidden flex flex-col items-center justify-center">
-              <Button label="Télécharge CV" />
+              <Button label="Télécharge CV" onClick="" />
               <h1 className="text-sm text-red">insdisponible</h1>
             </div>
           </div>
@@ -640,7 +640,7 @@ export default function home() {
                 <li>Responsable de la maintenance</li>
                 <br />
                 <div className="flex flex-col justify-center items-center">
-                  <Button label="Voir le site" />
+                  <Button label="Voir le site" onClick="" />
                   <h1 className="text-sm text-red">insdisponible</h1>
                 </div>
               </div>
