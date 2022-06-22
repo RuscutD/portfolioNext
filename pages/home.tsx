@@ -544,7 +544,7 @@ export default function home() {
                   MySQL
                 </h1>
                 <h1 className="px-5 py-1 bg-medium text-white rounded-xl">
-                  MarieDB
+                  MariaDB
                 </h1>
                 <h1 className="px-5 py-1 bg-medium text-white rounded-xl">
                   FireBase
